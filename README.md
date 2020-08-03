@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is where you will find my personal GitHub Page, aka my website at the moment :sweat_smile:
+
+Not much to see here yet, but more stuff should slowly build soon! :smile:
+
 <!--
 **racstyle/racstyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
