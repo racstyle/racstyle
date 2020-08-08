@@ -1,3 +1,6 @@
+[![time tracker](https://wakatime.com/badge/github/racstyle/racstyle.svg)](https://wakatime.com/badge/github/racstyle/racstyle)
+
+
 ### Hi there! 👋🏼 :blush:
 Not much to see here yet, but more stuff should slowly build soon! :sweat_smile:
 
@@ -16,9 +19,13 @@ Not much to see here yet, but more stuff should slowly build soon! :sweat_smile:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=racstyle&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
-*(These next stats are from the [WakaTime API](https://github.com/marketplace/actions/waka-readme))*
+*(These next stats are from the [GitHub WakaTime API Workflow](https://github.com/marketplace/actions/waka-readme) and [WakaTime's share menu](https://wakatime.com/share))*
 
 <!--START_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@0e67e513-2342-4c14-b299-724009634b6a/6d856d41-1c52-4c60-9be2-b2b3988b3a1b.svg"></embed></figure>
+
+<!-- <figure><embed src="https://wakatime.com/share/@0e67e513-2342-4c14-b299-724009634b6a/995c0be7-197b-41a5-bfe4-d49109a47289.svg"></embed></figure> -->
+
 <!--END_SECTION:waka-->
 
 
