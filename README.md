@@ -31,9 +31,9 @@ Not much to see here yet, but more stuff should slowly build soon! :sweat_smile:
 <img src="https://wakatime.com/share/@0e67e513-2342-4c14-b299-724009634b6a/995c0be7-197b-41a5-bfe4-d49109a47289.svg">
 <!--END_SECTION:waka-->
 
-<!-- waka-box start -->
- <!-- waka-box end -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Some project(s) I've been working on lately:
 [![Rachel's Personal GitHub Page](https://github-readme-stats.vercel.app/api/pin/?username=racstyle&repo=racstyle.github.io&show_owner=true&show_icons=true&theme=merko)](https://github.com/racstyle/racstyle.github.io)
