@@ -41,7 +41,7 @@
 ### Hi there! 👋🏼 :blush:
 Not much to see here yet, but more stuff should slowly build soon! :sweat_smile:
 
-- 🔭 I’m currently working on **[my GitHub Page](https://github.com/anuraghazra/racstyle.github.io)**
+- 🔭 I’m currently working on **[my GitHub Page](https://github.com/racstyle/racstyle.github.io)**
 - 🌱 I’m currently learning **Foundation 6.  I plan to look at the other JavaScript frameworks as well.**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/rachel-estilo/)**
 - 😄 Pronouns: **She/her (I am proud to be female! 👩🏻)**
