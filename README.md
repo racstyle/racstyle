@@ -1,6 +1,9 @@
 [![time tracker](https://wakatime.com/badge/github/racstyle/racstyle.svg)](https://wakatime.com/badge/github/racstyle/racstyle)
 
 
+(Psst, congrats!  You are the <img src="https://profile-counter.glitch.me/racstyle/count.svg" />'th visitor!)
+
+
 <h3 align="left">Skills!</h3>
 <p align="left">
     <!-- Arduino -->
@@ -93,8 +96,6 @@ Not much to see here yet, but more stuff should slowly build soon! :sweat_smile:
 [![Rachel's Personal GitHub Page](https://github-readme-stats.vercel.app/api/pin/?username=racstyle&repo=racstyle.github.io&show_owner=true&show_icons=true&theme=merko)](https://github.com/racstyle/racstyle.github.io)
 
 
-### Congrats!
-You are the <img src="https://profile-counter.glitch.me/racstyle/count.svg" />'th visitor!
 
 <!--
 **racstyle/racstyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
